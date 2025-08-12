@@ -1,0 +1,19 @@
+server:
+    port: 8081
+
+hangman:
+  max-attempts: 6
+  words:
+    list:
+      - developer
+      - platform
+      - microservice
+      - investment
+      - hazelcast
+      - springboot
+      - pipeline
+      - encryption
+      - repository
+      - kubernetes
+      - reactive
+      - orchestration
